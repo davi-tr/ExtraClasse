@@ -1,0 +1,25 @@
+.titulo{
+    text-align: center;
+}
+h1{
+    border-bottom: 6px ridge orange;
+    border-left: 6px ridge orange;
+    border-right: 6px ridge orange;
+}
+.textogira{
+    border-bottom: 1px solid;
+}
+.tabela{
+    margin-top: 20px;
+}
+
+p::first-letter{
+    font-size: 200%;
+}
+
+ul{
+    font-size: 20px;
+    border: 5px double black ;
+    border-radius: 20px !important;
+    list-style-image: url("/img/chapeu-formatura.jfif") ;
+}
